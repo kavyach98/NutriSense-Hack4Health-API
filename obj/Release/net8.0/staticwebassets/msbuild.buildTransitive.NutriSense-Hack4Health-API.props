@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\NutriSense-Hack4Health-API.props" />
+</Project>
